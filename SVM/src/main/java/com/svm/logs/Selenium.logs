@@ -1,0 +1,19 @@
+03:25:34,651 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:25:50,195 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:26:05,574 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:26:27,419 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Login success
+03:26:31,796 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:26:40,244 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Login success
+03:26:53,456 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:27:06,914 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Login success
+03:27:10,957 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:27:33,256 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Login success
+03:27:37,247 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:27:49,026 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Login success
+03:28:03,144 DEBUG devpinoyLogger<strong>{1}</strong>:98 - Browser launch successfully
+03:28:10,978 DEBUG devpinoyLogger<strong>{1}</strong>:60 - Login success
+03:28:12,345 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+03:28:12,345 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+03:28:12,347 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:28:12,347 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:28:12,347 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/gaurav.sharma1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
