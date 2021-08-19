@@ -6,26 +6,29 @@
   </listeners>
   <test name="Test(failed)" parallel="none">
     <classes>
-      <class name="com.svm.testcases.ClientpageTest">
-        <methods>
-          <include name="setExtent"/>
-          <include name="CreateClient"/>
-        </methods>
-      </class> <!-- com.svm.testcases.ClientpageTest -->
       <class name="com.svm.testcases.HomepageTest">
         <methods>
-          <include name="ValidateWelcomeImg"/>
           <include name="verifyOrderTile"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="TearDown"/>
           <include name="verifyClickOnOrder"/>
           <include name="ValidatepageTitle"/>
         </methods>
       </class> <!-- com.svm.testcases.HomepageTest -->
+      <class name="com.svm.testcases.ClientpageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="teardown"/>
+          <include name="setExtent"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.svm.testcases.ClientpageTest -->
       <class name="com.svm.testcases.LoginpageTest">
         <methods>
+          <include name="teardown"/>
+          <include name="tearDown"/>
           <include name="setup"/>
-          <include name="loginpageTitleTest"/>
-          <include name="loginpageimgTest"/>
-          <include name="verifyLogin"/>
         </methods>
       </class> <!-- com.svm.testcases.LoginpageTest -->
     </classes>

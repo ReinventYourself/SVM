@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" parallel="none">
   <test name="Default test(failed)" parallel="none">
     <classes>
-      <class name="com.svm.testcases.LoginpageTest">
+      <class name="com.svm.testcases.HomepageTest">
         <methods>
           <include name="setup"/>
           <include name="setExtent"/>
-          <include name="loginpageTitleTest"/>
+          <include name="ValidatepageTitle"/>
         </methods>
-      </class> <!-- com.svm.testcases.LoginpageTest -->
+      </class> <!-- com.svm.testcases.HomepageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
