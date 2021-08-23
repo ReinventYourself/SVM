@@ -96,7 +96,7 @@ public class TestUtil extends CoreClass {
 		
 	}	
 	
-	//Java code to test check in
+	//Get Screenshot one change
 		public static String getScreenshot(WebDriver driver, String screenshotName) throws IOException {
 		String dateName = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		TakesScreenshot ts = (TakesScreenshot) driver;
